@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_ginkgo.mk
+    $(LOCAL_DIR)/exthm_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_ginkgo-user \
-    evolution_ginkgo-userdebug \
-    evolution_ginkgo-eng
+    exthm_ginkgo-user \
+    exthm_ginkgo-userdebug \
+    exthm_ginkgo-eng
